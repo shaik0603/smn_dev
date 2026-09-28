@@ -1,0 +1,6 @@
+{
+  "name": "SMN Developers — Ultra-Luxury Real Estate & Estates",
+  "description": "SMN Developers presents India's most exclusive portfolio of ultra-luxury estates, oceanfront villas, and penthouses in Mumbai, Delhi, Bengaluru, Goa, and Hyderabad.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
